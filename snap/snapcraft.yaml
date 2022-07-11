@@ -598,6 +598,7 @@ parts:
       - openssl
       - file
       - dpkg
+      - python3-yaml
     source: .
     prime:
       - -README*
